@@ -6,7 +6,7 @@ The app is deployed using Streamlit for an interactive user experience.
 
 Python
 
-🚀 Features
+# 🚀 Features
 
 Lyrics-based recommendations for similar songs.
 
