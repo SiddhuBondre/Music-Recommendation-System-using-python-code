@@ -19,7 +19,7 @@ Interactive Streamlit web interface.
 Beginner-friendly machine learning project.
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python 3.x
 
@@ -30,7 +30,7 @@ Scikit-learn – for TF-IDF and similarity calculation
 Streamlit – for building the user interface
 
 
-🧠 How It Works
+# 🧠 How It Works
 
 Load Dataset – Reads the CSV file containing song names and lyrics.
 
@@ -41,7 +41,7 @@ Similarity Calculation – Uses cosine similarity to compare songs.
 Recommendation Output – Displays top N songs similar to the selected track.
 
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 Integrate Spotify API for real-time song data.
 
