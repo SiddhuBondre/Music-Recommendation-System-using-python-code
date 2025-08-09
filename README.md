@@ -7,6 +7,7 @@ The app is deployed using Streamlit for an interactive user experience.
 Python
 
 🚀 Features
+
 Lyrics-based recommendations for similar songs.
 
 Uses TF-IDF for text vectorization.
@@ -19,6 +20,7 @@ Beginner-friendly machine learning project.
 
 
 🛠️ Tech Stack
+
 Python 3.x
 
 Pandas – for data manipulation
@@ -29,6 +31,7 @@ Streamlit – for building the user interface
 
 
 🧠 How It Works
+
 Load Dataset – Reads the CSV file containing song names and lyrics.
 
 Vectorization – Converts lyrics into numerical vectors using TF-IDF.
@@ -39,6 +42,7 @@ Recommendation Output – Displays top N songs similar to the selected track.
 
 
 🔮 Future Improvements
+
 Integrate Spotify API for real-time song data.
 
 Add audio features for hybrid recommendations.
